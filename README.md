@@ -11,6 +11,18 @@ This project focuses on understanding the mathematical foundations of neural net
 - Learn the mathematics behind forward and backward propagation.
 - Build intuition before using deep learning frameworks.
 
+---
+## Learning Roadmap
+
+This diagram maps the concepts covered in the tutorial, including
+neurons, dense layers, activation functions, loss functions,
+backpropagation, and gradient descent.
+
+![Neural Networks From Scratch learning roadmap](learning-roadmap.png)
+
+[View full-size diagram](learning-roadmap.png)
+
+---
 ## Topics Covered
 
 - Single Neuron
@@ -25,14 +37,14 @@ This project focuses on understanding the mathematical foundations of neural net
 - Partial Derivatives
 - Backpropagation
 - Gradient Descent
-
+---
 ## Technologies Used
 
 - Python
 - NumPy
 - Matplotlib
 - Jupyter Notebook
-
+---
 ## Learning Outcomes
 
 Through this project, I gained practical experience in:
@@ -42,7 +54,7 @@ Through this project, I gained practical experience in:
 - Implementing activation and loss functions.
 - Computing gradients using backpropagation.
 - Updating model parameters using gradient descent.
-
+---
 ## Future Improvements
 
 - Implement Mini-Batch Gradient Descent
@@ -50,7 +62,7 @@ Through this project, I gained practical experience in:
 - Support Multiple Hidden Layers
 - Build a Complete Feedforward Neural Network
 - Compare the implementation with TensorFlow and PyTorch
-
+---
 ## References
 
 - *Neural Networks from Scratch* by Harrison Kinsley & Daniel Kukieła
